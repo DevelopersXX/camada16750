@@ -75,6 +75,24 @@ h1 {
     text-decoration: none;
 }
 
+.bg{
+       height: 50vh;
+       padding-top: 150px;
+    }
+     
+    .animacion {
+      color: transparent;
+      -moz-text-stroke-width: 2px;
+      -webkit-text-stroke-width: 2px;
+      -moz-text-stroke-color: #000000;
+      -webkit-text-stroke-color: #BCAAA4;
+    }
+     
+    .animacion{
+      text-shadow: 7px 7px #424242 ;
+    }
+    
+
 /* CSS About */
 
 #contenedor1 {
